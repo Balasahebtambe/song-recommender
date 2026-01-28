@@ -1,6 +1,4 @@
-# :earth_americas: GDP dashboard template
-
-Project Title: Song Recommendation System
+# Project Title: Song Recommendation System
 Objective:
 The objective of this project is to build a song recommendation system that suggests songs to users based on their preferences, song similarities, or user behavior. This system can leverage user listening history, song features, or other metadata to deliver personalized recommendations.
 
